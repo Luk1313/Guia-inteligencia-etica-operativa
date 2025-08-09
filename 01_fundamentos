@@ -1,0 +1,22 @@
+# Definiciones básicas de Inteligencia
+
+## ¿Qué es inteligencia?
+Proceso continuo para transformar datos en **información útil** que ayude a **tomar decisiones**. Incluye: dirección, obtención, elaboración y difusión.
+
+## Tipos (según uso)
+- **Básica:** histórico, catálogos, perfiles.
+- **Actual/Corriente:** situación presente (estado hoy).
+- **Estimativa:** probables cursos de acción futuros.
+- **Targeting:** focalizada en un objetivo/activo concreto.
+- **Alerta:** avisos urgentes ante amenazas latentes.
+
+## Niveles
+- **Táctico:** IoC/IoA (IP, hash, dominio, URL, TTPs).
+- **Operacional:** campañas, actores, capacidades.
+- **Estratégico:** impacto en negocio, riesgo y decisiones.
+
+## Roles
+- **Dirección:** define requisitos de inteligencia (PIRs).
+- **Obtención:** recolecta datos (OSINT, fuentes internas).
+- **Elaboración:** valida, analiza, integra, concluye.
+- **Difusión:** entrega al destinatario correcto y a tiempo.
