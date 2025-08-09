@@ -1,0 +1,28 @@
+guia-inteligencia-etica-operativa/
+│
+├── README.md
+├── 01_fundamentos/
+│   ├── definicion_inteligencia.md
+│   ├── ciclo_inteligencia.md
+│   └── principios_eticos.md
+├── 02_metodologia/
+│   ├── fase_1_direccion.md
+│   ├── fase_2_obtencion.md
+│   ├── fase_3_elaboracion.md
+│   ├── fase_4_difusion.md
+│   ├── admiralty_code.md
+│   └── tipologia_percepcion.md
+├── 03_herramientas/
+│   ├── herramientas_osint.md
+│   ├── fuentes_busqueda.md
+│   ├── tipos_investigacion.md
+│   └── checklist_validacion.md
+├── 04_planes_investigacion/
+│   ├── plantilla_plan_investigacion.md
+│   ├── ejemplo_plan_osint.md
+│   └── ejemplo_plan_seguridad_fisica.md
+├── 05_hipotesis_analisis/
+│   ├── como_formular_hipotesis.md
+│   ├── categorias_analisis.md
+│   └── ejemplo_caso_practico.md
+└── LICENSE
